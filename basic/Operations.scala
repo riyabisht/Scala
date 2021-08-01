@@ -1,6 +1,6 @@
 
 
-object Program03 {
+object Operations {
   def main(args: Array[String])
   {
     var a=10;
